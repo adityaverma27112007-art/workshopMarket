@@ -1,0 +1,14 @@
+{
+  "name": "workshop-market-security-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node security-checks.mjs"
+  },
+  "dependencies": {
+    "three": "^0.186.1"
+  }
+}
+
